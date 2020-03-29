@@ -3,7 +3,7 @@ home: true
 heroText: Learn DITA
 tagline: Leverage the basics of DITA topics to improve your documentation
 actionText: Get Started →
-actionLink: /why-learn
+actionLink: /what-is-DITA
 features:
 - title: Simplicity First
   details: Minimal setup with markdown-centered project structure helps you focus on writing.
