@@ -6,6 +6,10 @@ module.exports = {
             { text: 'Home', link: '/' },
             { text: 'About', link: '/about' },
 
+        ],
+        sidebar: [
+            ["what-is-DITA", "What is DITA?"],
+            ["/why-use-DITA", "Why use DITA?"],
         ]
     }
 }
