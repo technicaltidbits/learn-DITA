@@ -1,4 +1,4 @@
-# What is DITA?
+# What's DITA?
 
 The Darwin Information Typing Architecture (DITA) is a modular framework for creating and maintaining content. DITA is focused on and built upon **topic-based authoring**. 
 
