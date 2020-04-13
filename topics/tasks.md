@@ -1,0 +1,3 @@
+# Task topics
+
+A task topic describes a procedure, or in some cases, [another task](https://everypageispageone.com/2012/08/07/a-task-is-not-a-procedure/), particularly for developer documentation. Procedures should be concise and focused. Procedures with multiple subtasks or multiple steps may leave your readers confused, and they may turn to Google for the solution to their problem rather than reading your documentation.
