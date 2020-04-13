@@ -10,6 +10,15 @@ module.exports = {
         sidebar: [
             ["what-is-DITA", "What is DITA?"],
             ["/why-use-DITA", "Why use DITA?"],
+            {
+                title: 'DITA Foundations',
+                children: [
+                    ["/building-blocks", "Overview"],
+                    ["/topics/tasks", "Tasks"],
+                    ["/topics/topic-structure", "Topic structure"],
+                ]
+            }
+            
         ]
     }
 }
