@@ -14,11 +14,16 @@ module.exports = {
                 title: 'DITA Foundations',
                 children: [
                     ["/building-blocks", "Overview"],
-                    ["/topics/tasks", "Tasks"],
                     ["/topics/topic-structure", "Topic structure"],
+                    ["/topics/tasks", "Tasks"],
                 ]
             }
             
-        ]
+        ],
+        repo: "https://github.com/technicaltidbits/learn-dita",
+        repoLabel: "Contribute!",
+        editLinks: true,
+        editLinkText: "Help us improve this page!",
+        lastUpdated: "Last Updated"  
     }
 }
