@@ -16,6 +16,7 @@ module.exports = {
                     ["/building-blocks", "Overview"],
                     ["/topics/topic-structure", "Topic structure"],
                     ["/topics/tasks", "Tasks"],
+                    ["/topics/concept", "Concepts"]
                 ]
             }
             
