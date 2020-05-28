@@ -8,6 +8,8 @@ The premise of topic-based authoring is that each unit of information is a _topi
 
 The traditional textbook-style way of writing content often involves mixing up instructions with explanations. For example, a document that teaches you how to create a new Vue project may also have sporadic explanations about the history of Vue. The topic loses its focus.
 
+https://www.techelevator.com/about-us
+
 Topics should answer one of these questions:
 
 * What is...?
